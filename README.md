@@ -1,5 +1,5 @@
 # MyEchoServer
-
+[![CI](https://github.com/MasonCodingHere/EchoServer_CSAPP/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/MasonCodingHere/EchoServer_CSAPP/actions/workflows/ci.yml)
 # 简介
 
 CSAPP第十一章网络编程的例子，echo服务器。用CMake构建
